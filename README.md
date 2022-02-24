@@ -2,4 +2,4 @@
 
 Rendered content can be view at: [https://lamw.github.io/intel-nuc-decoder](https://lamw.github.io/intel-nuc-decoder)
 
-**Last Updated:** 01/13/2021
+**Last Updated:** 02/24/2022
